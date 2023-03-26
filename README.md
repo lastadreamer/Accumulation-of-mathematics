@@ -1,5 +1,5 @@
 # Accumulation-of-mathematics
-Mathematics is King
+Mathematics is King.
 
 ## 机器学习
 
