@@ -1,1 +1,1 @@
-graphics for math
+graphics for "accumulation of mathematics"
